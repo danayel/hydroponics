@@ -9,4 +9,4 @@ I had been trying to budget out a basic hydroponic system for a while, but despi
 
 Over the weekend we set up some egg carton starters with some sugar snap peas that we had in storage and watered them in a brownie tin that my mom left with us. None of the seeds have started to grow yet, but I'm fairly hopeful.
 
-The air pump that we ordered also arrived today. This air pump looks small, but it is quite the beast and makes quite the racket. We may have tofind some way to suppress the noise that it makes if we're going to have it running between my office and our bedroom.
+The air pump that we ordered also arrived today. This air pump looks small, but it is quite the beast and makes quite the racket. We may have to find some way to suppress the noise that it makes if we're going to have it running between my office and our bedroom.
