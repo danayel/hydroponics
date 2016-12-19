@@ -9,5 +9,5 @@ baseurl: /hydroponics
 url: https://that-pat.github.io/
 twitter_username: PatEastDesign
 github_username:  that-pat
-theme: jekyll-theme-minimal
+theme: minima
 permalink: pretty
