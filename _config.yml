@@ -1,5 +1,5 @@
 # Site settings
-# title: Pat East's Hydroponic Journal
+title: Pat East's Hydroponic Journal
 email: that-pat@github.com
 description: > # this means to ignore newlines until "baseurl:"
   We have a huge house that doesn't get used nearly enough
