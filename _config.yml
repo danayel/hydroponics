@@ -1,13 +1,1 @@
-# Site settings
-title: Pat East's Hydroponic Journal
-email: that-pat@github.com
-description: > # this means to ignore newlines until "baseurl:"
-  We have a huge house that doesn't get used nearly enough
-  and a deep need to grow some veggies. This journal is to
-  measure and share my progress as we build our hydroponic garden.
-baseurl: /hydroponics
-url: https://that-pat.github.io/
-twitter_username: PatEastDesign
-github_username:  that-pat
 theme: jekyll-theme-minimal
-permalink: pretty
